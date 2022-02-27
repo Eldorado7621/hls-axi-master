@@ -1,6 +1,6 @@
 //size limit
 //maximume AXI4 full burst lenght is 256 bytes
-#define MAX_TRANSFER_SIZE 268435456
+#define MAX_TRANSFER_SIZE 200
 const int max_depth=MAX_TRANSFER_SIZE;
 
 
