@@ -4,5 +4,7 @@
     <originFiles name="main.cpp" path="/home/sam/git_workspace/hls-axi-master/main.cpp"/>
     <originFiles name="main.h" path="/home/sam/git_workspace/hls-axi-master/main.h"/>
   </source>
-  <testbench/>
+  <testbench>
+    <originFiles name="test_main.cpp" path="/home/sam/git_workspace/hls-axi-master/test_main.cpp"/>
+  </testbench>
 </autopilotfilemapping:AutoPilotFileMapping>

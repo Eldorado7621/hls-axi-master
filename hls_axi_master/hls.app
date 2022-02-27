@@ -3,6 +3,7 @@
   <files>
     <file name="main.cpp" sc="0" tb="false" cflags="" blackbox="false" csimflags=""/>
     <file name="main.h" sc="0" tb="false" cflags="" blackbox="false" csimflags=""/>
+    <file name="../../test_main.cpp" sc="0" tb="1" cflags="" csimflags=""/>
   </files>
   <solutions>
     <solution name="solution1" status="active"/>

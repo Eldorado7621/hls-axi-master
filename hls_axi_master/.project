@@ -52,6 +52,11 @@
 			<location>/home/sam/git_workspace/hls-axi-master/main.h</location>
 		</link>
 		<link>
+			<name>testbench/test_main.cpp</name>
+			<type>1</type>
+			<location>/home/sam/git_workspace/hls-axi-master/test_main.cpp</location>
+		</link>
+		<link>
 			<name>solution1/constraints/.xml.directive</name>
 			<type>1</type>
 			<location>/home/sam/git_workspace/hls-axi-master/hls_axi_master/solution1/solution1.directive</location>
